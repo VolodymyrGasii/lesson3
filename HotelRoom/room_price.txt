@@ -1,0 +1,47 @@
+BOOK A SUITE NOW (it is not a button, it is just a badge)
+    background-color: #aac05c;
+    color: #fff;
+    font: "Lato", Sans-serif;
+    size: 12px;
+    weight: 400;
+
+GET A FREE AIRPORT SHUTTLE
+    color: #000000;
+    font: "Pathway Gothic One", Sans-serif;
+    size: 50px;
+    weight: 400;
+
+That’s correct!
+    color: #000;
+    font: "Lato", Sans-serif;
+    size: 20px;
+    weight: 400;
+
+We’re so determined to make your experience at our hotel a charm, that we’d love to provide you with a courtesy airport shuttle if you book with us!
+	color: #7d7d7d;
+    font: "Lato", Sans-serif;
+    size: 15px;
+    weight: 400;
+
+Background of column 2 - background-color: #162541;
+Prices start at:
+    color: #fff;
+    font: "Lato", Sans-serif;
+    size: 15px;
+    weight: 400;
+
+250.00
+    color: #fff;
+    font: "Old Standard TT", Sans-serif
+    size: 54px;
+    weight: 400;
+
+/per night
+    color: #fff;
+    font: "Old Standard TT", Sans-serif
+    size: 20px;
+    weight: 400;
+
+Button "Book a room"
+ 	width: 210px;
+ 	background: rgb(255,103,125);
