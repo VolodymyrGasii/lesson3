@@ -1,0 +1,36 @@
+COMFORTABLE STANDARD ROOMS & HIGH-END SUITES
+    color: #000000;
+    font: "Pathway Gothic One", Sans-serif;
+    size: 50px;
+    weight: 400;
+
+Woods Hotel has 35 elegantly furnished and air conditioned classic rooms, which will be a perfect pick both for business and leisure travelers…
+	color: #7d7d7d;
+    font: "Lato", Sans-serif;
+    size: 15px;
+    weight: 400;
+
+Premium Suite
+    color: #000000;
+    font: "Pathway Gothic One", Sans-serif;
+    size: 30px;
+    weight: 400;
+    hover-color: #ff4157;
+
+The Suite, which has a separated bedroom and living room that allows for more efficient use of space, is the most optimum place to relax for both business and family guests.
+	color: #7d7d7d;
+    font: "Lato", Sans-serif;
+    size: 15px;
+    weight: 400;
+
+Details
+    color: #000000;
+    font: "Pathway Gothic One", Sans-serif;
+    size: 30px;
+    weight: 400;
+    hover-color: #ff4157;
+
+Button "Book"
+ 	width: 210px;
+ 	background: rgb(255,103,125);
+ 	background-hover: #162541;
